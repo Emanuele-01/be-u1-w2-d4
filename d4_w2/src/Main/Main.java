@@ -50,6 +50,7 @@ public class Main {
 		System.out.println("i libri che costano più di 100 euro sono: " + ricercaBooks);
 		
 		
+		
 		// persone
 		
 		custumer person = new custumer(987654, "Alice", 3245);
@@ -61,6 +62,8 @@ public class Main {
 		custumer person4 = new custumer(345678, "Dave", 1567);
 		
 		custumer person5 = new custumer(765432, "Emily", 8312);
+		
+		
 		
 		//ordini
 		
